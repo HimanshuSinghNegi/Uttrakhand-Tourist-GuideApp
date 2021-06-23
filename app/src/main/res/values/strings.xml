@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Devboomi Tour GuideApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tile_name">UTTRAKHAND</string>
+    <string name="uttra_detail">Uttarakhand,
+        formerly known as Uttaranchal is a state in the northern part of India.
+        It is often referred to as the "Devabhumi" (literally "Land of the Gods") due to
+        numerous Hindu temples and pilgrimage centres found throughout the state. Uttarakhand is known for the natural environment of the Himalayas,
+        the Bhabar and the Terai regions. It borders the Tibet Autonomous Region of China to the north; the Sudurpashchim Pradesh of Nepal to the east;
+        the Indian states of Uttar Pradesh to the south and Himachal Pradesh to the west and north-west.
+        The state is divided into two divisions, Garhwal and Kumaon with a total of 13 districts. The winter capital of Uttarakhand is Dehradun,
+        the largest city of the state, which is a rail head. Gairsain, a town in Chamoli district is the summer capital of Uttarakhand.[28][29][30]
+        The High Court of the state is located in Nainital.</string>
+    <string name="uttra_detail1">
+        Archaeological evidence supports the existence of humans in the region since prehistoric times. The region formed a part of the Uttarakuru
+        Kingdom during the Vedic age of Ancient India. Among the first major dynasties of Kumaon were the Kunindas in the 2nd century BCE who
+        practised an early form of Shaivism. Ashokan edicts at Kalsi show the early presence of Buddhism in this region. During the medieval period,
+        the region was consolidated under the Katyuri rulers of Kumaon also known as \'Kurmanchal Kingdom\'.[31] After the fall of Katyuris, the region was
+        divided into the Kumaon Kingdom and the Garhwal Kingdom. In 1816, most of modern Uttarakhand was ceded to the British as part of the Treaty of Sugauli.
+        Although the erstwhile hill kingdoms of Garhwal and Kumaon were traditional rivals, the proximity of different neighbouring ethnic groups and the inseparable and
+        complementary nature of their geography, economy, culture, language,and traditions created strong bonds between the two regions, which further strengthened during the Uttarakhand movement for statehood in the 1990s.
+    </string>
+
+    <string name="kedar">
+
+        Kedarnath Temple (Sanskrit:केदारनाथ मंदिर, IAST:Kēdāranātha Mandira, lit. \'temple of the lord of the field\'), is a Hindu temple (shrine)
+        dedicated to God Shiva. Located on the Garhwal Himalayan range nearthe Mandakini river, Kedarnath is located in the state of Uttarakhand, India.
+    </string>
+
+    <string name="nanda_devi">Nanda Devi is the second highest mountain in India after Kangchenjunga and the highest located entirely within the country.
+        (Kangchenjunga, which is higher, is on the border of India and Nepal.) It is the 23rd-highest peak in the world. It was considered the highest mountain in the world
+        before computations in 1808 proved Dhaulagiri to be higher. It was also the highest mountain in India until 1975 when Sikkim, an independent kingdom until 1948, and
+        a protectorate of India thereafter became a part of the Republic of India. It is part of the Kumaon Himalayas,[3] and is located in Garhwal region in Chamoli district
+        of Uttarakhand, between the Rishiganga valley on the west and the Goriganga valley on the east. The peak, whose name means "Bliss-Giving Goddess",[5] is regarded as the
+        patron goddess of the Garhwal and Kumaon Himalayas. In acknowledgment of its religious significance and for the protection of its fragile ecosystem, the peak as
+        well as the circle of high mountains surrounding it—the Nanda Devi sanctuary—were closed to both locals and climbers in 1983.
+        The surrounding Nanda Devi National Park was declared a UNESCO World Heritage Site in 1988.</string>
+    <string name="chandi_devi">Chandi Devi Temple, Haridwar (Hindi: चण्डी देवी मंदिर, हरिद्वार) is a Hindu temple dedicated to Goddess Chandi Devi in the holy city of Haridwar in
+        the Uttarakhand state of India. The temple is situated atop the Neel Parvat on the Eastern summit of the Sivalik Hills, the southernmost mountain chain of the Himalayas.
+        Chandi Devi Temple was built in 1929 by Suchat Singh in his reign as the King of Kashmir. However, the main murti of Chandi Devi at the temple is said to have been installed
+        in the 8th century by Adi Shankaracharya, one of the greatest priests of Hindu religion.[1][2] The temple also known as Neel Parvat Teerth is one of the Panch Tirth
+        (Five Pilgrimages) located within Haridwar.Chandi Devi Temple is highly revered by devotees as a Siddh Peetha which is a place of worship where desires get fulfilled.
+        It is one of three such Peethas located in Haridwar, the other two being Mansa Devi Temple and Maya Devi Temple.</string>
+
+    <string name="dhari_devi">Dhari Devi a temple located on the banks of the Alaknanda River between Srinagar and Rudraprayag in the Garhwal Region of Uttarakhand, India.
+        The temple is home to the upper half of the idol of the goddess Dhari, while the lower half of the idol is located in Kalimath, where she is worshipped as a manifestation
+        of the Goddess Kali.She is considered to be the guardian deity of Uttarakhand and is revered as the protector of the Char Dham’s.[1][2] Her shrine is one of 108 Shakti Sthals
+        in India, as numbered by Srimad Devi Bhagwa
+    </string>
+
+    <string name="tungnath">
+    Tungnath is one of the highest Shiva temples in the world[1] and is the highest of the five Panch Kedar temples located in Rudraprayag district, in the Indian state of Uttarakhand.
+        The Tunganath (literal meaning: Lord of the peaks) mountains form the Mandakini and Alaknanda river valleys. It is located at an altitude of 3,470 m (11,385 ft), and just below the
+        peak of Chandrashila.[2] and is the second(Dwitiya Kedar) in the pecking order of the Panch Kedars. It has a rich legend linked to the Pandavas, heroes of the Mahabharata epic.
+        According to Hindu mythology, Lord Shiva and his consort, Parvati both reside in the Himalayas: Lord Shiva resides at Mount Kailash. Parvati is also called Shail Putri, which means \'daughter of hills\'.
+    </string>
+    <string name="food_heading">Cuisine In Uttrakhand</string>
+
+    <string name="food_detail">
+        The cuisine of Uttarakhand is similar to its people, simple yet incredible. The two distinct regions, Kumaon and Garhwal offer palates of flavoursome dishes that are high
+        on nutrition as well. The cuisine of the state is meticulously chosen to not only offer delight the taste buds but also to make most of the resources available. Where great
+        care is taken to include all the necessary elements to keep one well-prepared for the tough climate and trails, special attention is paid to maintaining the look and taste
+        of the dishes as well. A balanced flavour is the key to authentic Uttarakhand cuisine that is mostly cooked over slow fire and consists of lentils. Although Kumaon and
+        Garhwal are divided in different regions; they unite as one in its methods of cooking and the choice of ingredients. There are also several dishes that two regions are
+        common but have different names. The food habit in the state also witness variation with the changing season; where in winter in Mathir and Til Laddus or Madua Rotis are
+        preferred,in summers, Dubkas with Chholia Rotis are relished.
+    </string>
+    <string name="aloo_gutke">One of the basic and most popular dishes in Uttarakhand, Aaloo (Potatoes) ke Gutke is a simple preparation where dry spices are roasted and used. Aaloo ke Gutke are best served with Puri and kheerein ka Raita (Cucumber and Curd preparation). This dish is seen mostly served on festivals.</string>
+    <string name="kapaa">A delicious dish that is best enjoyed in the winter season, Kafuli or Kapaa is made by using spinach, lai ( the alternative of mustard leaf) and fenugreek leafs. The vegetable/s is cooked in an iron kadhai (utensil) and is then served with steaming rice.</string>
+    <string name="phaanu">Phaanu has its origin in Garhwal Region of Uttarakhand. It is a complex preparation but very high in taste. To make this dish, lentils including the native Gahat Dal are soaked overnight and are cooked in a pot and served especially in the lunchtime.</string>
+    <string name="chainsoo">Prepared by lentils (Urad or kali dal), Chainsoo is a famous preparation in Garhwal Region of Uttarakhand. The dish is cooked by roasting the lentils and then making a paste of it, which is then cooked in an iron pot over slow fire giving it quite an earthy taste.</string>
+    <string name="baadi">A quick fix for any meal of the day when you have no or less time to cook, Baadi is a popular dish from Garhwal Region of Uttarakhand. Used by adding Buckwheat Flour to the boiling water and served with ghee, this easy dish is scrumptious and is full of nutrients.</string>
+    <string name="nanital">The gem of Uttarakhand - Nainital is a charming hill station that sits prettily at the green foothills of the Kumaon ranges in the Himalayas. Located at an elevation of around 1938 metres, Nainital is located and developed around the beautiful Naini Lake, after which the town is named. The most visited hill station in North India, Nainital is a perfect weekend getaway from the Indian capital of Delhi and the nearby places.
+        Founded by the British due to its resemblance to the Cumbrian Lake District, Nainital brims with elegant colonial structures that amplify the beauty of this place. It experiences a pleasant climate throughout the year, making Nainital a tourist getaway, especially preferred by families and honeymooners. The Naini Lake, along with the other lakes in the area, has earned this town the title of ‘City of Lakes’. The most popular activity for tourists visiting Nainital is boating the in Naini Lake, while few others visit for trekking in the surrounding mountain regions.</string>
+
+
+    <string name="mush">Mussoorie is one of the most popular hill stations located at a distance of 290 km from Delhi in Dehradun district of Uttarakhand. With a backdrop of Shivalik range of Himalayas and doon valley, Mussoorie, also known as Queen of The Hills, stands at an altitude of 7000 feet above sea level and has a cool, pleasant climate throughout the year. Once the British summer capital, Mussoorie is a popular getaway for honeymooners and families.
+        The fact that it was a popular holiday destination during the British era can be seen from British remnants in the city, such as the archaic architecture of the hotels and churches. One of the most popular tourist attractions in Mussoorie is The Mall (also known as the Mall Road), which is a slightly steep boulevard with eateries and other shops lining its entire stretch. From the little houses spread around the area to the architecture of even the lamp posts, The Mall gives off a distinct colonial vibe.</string>
+    <string name="dehra">Nestled amidst the Doon Valley in the state of Uttarakhand, Dehradun city is a very popular hill station that beckons solo travellers, families and couples alike. Winter Capital of Uttarakhand, it proudly boasts of a scenic backdrop of the Garhwal Himalayas. Dehradun is located at an altitude of 1400 feet above sea level and has a pleasant climate all year round. Regardless of whether you want to explore family-friendly tourist spots, try thrilling adventure activities with your friends, or watch a mesmerizing sunset with your partner amidst the mountains, Dehradun is the answer.
+         </string>
+    <string name="rishi">Located in the foothills of the Himalayas along the convergence of Ganga and Chandrabhaga River, Rishikesh is a small town in the Dehradun district, located close to Haridwar in Uttarakhand. Rishikesh (also called as Hrishikesh) is known for its adventure activities, ancient temples, popular cafes and as the "Yoga Capital of the World". Gateway to Garhwal Himalayas, Rishikesh is also a pilgrimage town and one of the holiest places for Hindus.
+        Rishikesh became known worldwide in the 1960s after The Beatles visited the ashram of Maharishi Mahesh Yogi here. Today, the place is popular as The Beatles Ashram which beckons tourists globally. The tranquil town has long been a spiritual centre but is equally popular for the whitewater rafting, bungee jumping, mountain biking and camping along the fast-flowing Holy Ganges. It also serves as the gateway to many Himalayan treks.
+        As it lies on the holy banks of river Ganga, Rishikesh has been a hub of Sadhus (saints) with numerous ashrams teaching spirituality, yoga, meditation and Ayurveda springing up. Since it is a religious town, non-vegetarian food and alcohol are strictly prohibited here. Rishikesh sees the most beautiful evening aarti on the banks of the river Ganga, which is not too crowded unlike its contemporaries in Varanasi, and Haridwar. The International Yoga Festival is organised here in the first week of March which sees yoga enthusiasts from all over the globe.</string>
+    <string name="auli">Dotted with the apple orchards, old oaks, and pine trees there is no dearth of natural beauty in Auli. Apart from skiing you can also go for numerous treks in the hills of Garhwal Himalayas and enjoy the spellbinding views of the snow-draped mountains. Auli is a popular hill resort in the Himalayan range dating back to the 8th Century AD. The Garhwal Mandal Vikas Nigam Limited (GMVL) runs a ski resort and a ski rental shop.
+        Auli is a popular skiing destination in India because of its glittering slopes and clean environment. Dotted with apple orchards, oaks and deodars, Auli is a popular hill town with numerous ski resorts situated amidst the Himalayan range. Located at 2800 meters above sea levels, it is home to mountain ranges of Nanda Devi, Mana Parvat and Kamat Kamet. Many religious destinations are also scattered around Auli. It is believed that Shankracharya had blessed Auli with his visit.</string>
+</resources>
